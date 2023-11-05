@@ -1,10 +1,4 @@
 # http://mcstats.org
-
-opt-out: false
-guid: ded9266f-1314-4c92-870c-ac604bf1552a
-debug: false
-# http://mcstats.org
-
 opt-out: false
 guid: ded9266f-1314-4c92-870c-ac604bf1552a
 debug: false
@@ -37,7 +31,7 @@ welcomeMessage:
 requirePin: false
 sendPinSetReminder: true
 
-sessionExpiresIn: 48 # In hours, set to negative for infinity (not recommended)
+sessionExpiresIn: 72 # In hours, set to negative for infinity (not recommended)
 
 onFirstJoin:
   teleport: false
