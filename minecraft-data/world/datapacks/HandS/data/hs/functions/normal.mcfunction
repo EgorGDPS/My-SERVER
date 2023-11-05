@@ -1,0 +1,3 @@
+difficulty normal
+gamerule naturalRegeneration true
+gamerule fallDamage true
