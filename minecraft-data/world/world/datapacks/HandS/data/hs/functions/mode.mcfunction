@@ -1,0 +1,3 @@
+difficulty peaceful
+gamerule naturalRegeneration false
+gamerule fallDamage false
