@@ -8,11 +8,13 @@ nameValidation: true
 timeout: 60 # In seconds
 
 passwordValidation:
-  minLength: 4
-  maxLength: 8
+  minLength: 6
+  maxLength: 32
+  minUppercase: 1
+  minNumbers: 1
 
 pinValidation:
-  minLength: 4
+  minLength: 6
   maxLength: 6
 
 effects:
